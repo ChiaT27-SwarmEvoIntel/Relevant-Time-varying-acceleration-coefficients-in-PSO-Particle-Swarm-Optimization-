@@ -1,5 +1,5 @@
 # Relevant-Time-varying-acceleration-coefficients-in-Particle-Swarm-Optimization-
-Some PSO Time Varying Acceleration Variants including: 
+Some PSO Time Varying Acceleration Variants including visualize\n: 
 TVAC (Time Varying Acceleration Coefficients)
 SCAC (Sine Cosine Acceleration COefficients)
 NDAC (nonlinear Dynamic Acceleration COefficients)
